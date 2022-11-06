@@ -1,0 +1,27 @@
+body{
+    background-image:url(../Imagenes/slidertienda.jpg) ;
+    background-size: contain, cover;
+    
+}
+
+
+nav-link:hover {
+    background-color: #f4991a;
+    color: black;
+    font-size: 25px;
+    border: white 1px solid;
+    border-radius: 25px;
+    box-shadow: 3px 3px gray; }
+    
+
+
+.footer {
+    border: 3px black solid;
+    text-align: center;
+    border: 5px black solid;
+    background-color: black;
+    color: white; }
+  
+  .iconify {
+    font-size: 4rem;
+    color: #f4991a; }
